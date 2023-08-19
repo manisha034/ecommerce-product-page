@@ -31,7 +31,7 @@ function App() {
                   <a class="nav-link" href="#">Men</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Women</a>
+                  <a class="nav-link" href="#">W</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">About</a>
